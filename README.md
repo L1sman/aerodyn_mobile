@@ -1,9 +1,5 @@
 # Aerodyn Mobile
 
-A professional delivery management mobile application built with React Native and Expo. The app provides a comprehensive solution for managing deliveries, tracking their status, and handling logistics operations efficiently.
-
-![App Screenshot](assets/logo.png)
-
 ## Key Features
 
 - 📦 Delivery Management
